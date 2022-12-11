@@ -38,7 +38,7 @@ from ropper import RopperService
 
 target_ip_address = "0.0.0.0"
 target_port       = 8181
-binary_file       = '/media/hurin/0EB80D9EB80D85851/cyber/CTF/Online/Codegate2017/BabyPwn/babypwn'
+binary_file       = 'target_binary'
 libc_file         = '/lib/i386-linux-gnu/libc.so.6'
 
 ###############################################################################
